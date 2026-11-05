@@ -4,7 +4,7 @@
 ## 📂 目录导航
 
 ### 1. [C++ 工具集 (cpp-tools)](./cpp-tools)
-包含基于 C++ 编写的算法实现与数据处理工具。
+包含基于 C++ 编写的数据处理工具。
 
 ### 2. [MATLAB 工具集 (matlab-tools)](./matlab-tools)
 包含用于工程计算、数据可视化以及 App Designer 开发的工具。
