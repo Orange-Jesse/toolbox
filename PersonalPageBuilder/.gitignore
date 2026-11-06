@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 本程序不在自身目录里存配置和缓存（都在 ~/.personal_page_builder），
+# 如果误改过 PPB_DATA_DIR 指向当前目录，这份忽略规则可以兜底
+config.json
+settings.json
+state.json
+cache/
+repos/

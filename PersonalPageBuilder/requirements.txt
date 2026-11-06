@@ -1,0 +1,5 @@
+# Personal Page Builder 运行依赖
+# 安装：python -m pip install -r requirements.txt
+Pillow>=9.0
+pywebview>=5.0
+watchdog>=3.0
